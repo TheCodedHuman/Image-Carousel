@@ -1,0 +1,8 @@
+2. Image Slider / Carousel
+Objective: Create an image slider that transitions between images automatically and via user interaction.
+Requirements:
+● Implement "Next" and "Previous" buttons.
+● Auto-play functionality that changes images at regular intervals (e.g., every 3–5 seconds).
+Technical Focus:
+● Utilize setInterval() for auto-play.
+● Use classList methods for slide transitions.
